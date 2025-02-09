@@ -7,6 +7,7 @@ image: pub.jpg
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 1. M. Hassoune, A. Kada, B. Mendai, B. Lamri, O. Yessad, P. Piloto, L.Jiang, Performance of single and built-up I-shaped Cold Formed Steel stud under double sided walls fire exposure, Engineering Structures (under review)
+2. Ganyu Wang,Jiangdong Li, Liming Jiang, Guannan Wang, Ke Wu, Tianhang Zhang, 2025. Study on the Smoke 1 Bifurcation-induced Heat and Mass Redistribution in Longitudinally Ventilated Tunnel Fires:Theoretical Modelling and Full-scale Demonstration (under review)
 2. Shou-Zhen Li; Jin-Jin Wang; Liming Jiang; Ran Deng*;Yu-Hang Wang, 2025. [Machine learning-based strength prediction for circular concrete-filled double-skin steel tubular columns](https://doi.org/10.1016/j.engstruct.2024.119460), Engineering Structures, 325, 119460 (https://doi.org/10.1016/j.engstruct.2024.119460).
 2. J.Wang, S. Li*, J. Qiu, C. Chen, T. Chu, Y. Tian, P. Wang, Y.Weng, A. Usmani, L. Jiang*, Experimental investigation on thermal performance of 3D printed concrete elements subjected to fire, Fire and Materials (SIF2024 invited submission).
 2. C. Cheng, F. Wiesner, T. Chu, A. Usmani, L.Jiang *.2024, A conceptual design of timber-insulation mixed slab surface to mitigate large open-plan compartment fire development, Journal of Building Engineering (under review).
