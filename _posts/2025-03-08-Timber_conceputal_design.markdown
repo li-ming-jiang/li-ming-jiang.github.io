@@ -1,0 +1,9 @@
+---
+layout: post
+title:  A conceptual design of timber-insulation mixed slab surface to mitigate large open-plan compartment fire development
+date:   2025-03-06 18:01:35 +0800
+image:  timber_stripe.jpg
+tags:   Paper
+---
+## A conceptual design of timber-insulation mixed slab surface to mitigate large open-plan compartment fire development
+Driven by sustainability, ease of construction, and aesthetic appeal, the utilization of engineered timber products is increasingly favoured in modern architecture. However, their combustibility and potential rapid flame spread are obstacles to widespread implementation. Full-scale fire tests have shown that ignition of a timber ceiling, led to rapid fire spread and large heat release rates. To mitigate such intense fires, a conceptual design of a mixed ceiling, consisting of a lower surface with alternating timber strips and insulation strips combined with a concrete upper surface, has been proposed. Full-scale CFD fire models, were initially established and validated with reference to the Malveira fire test, and subsequently extended to accommodate different ceiling configurations, including full-timber ceilings, timber-insulation mixed ceilings with different widths, and fully protected ceilings. The simulation results showed that mixed ceiling strategies have the potential to mitigate the rapid spread of fire. In large open compartments where floor fuel loads are arranged discontinuously, resembling real fire scenarios, even cases with non-optimal stripe combination widths demonstrate rapid fire mitigation effects approaching 6.0 minutes. Additionally, mixed stripe cases based on performance studies can limit combustion to localized fires within 30.0 minutes. These findings contribute to the safe utilization of mass timber in modern compartments and for practicing engineers to assess further design options.
