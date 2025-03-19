@@ -34,7 +34,8 @@ liming.jiang(at)Polyu.edu.hk
 * Assistant Engineer, Hengyu Special Structures Construction Co.Ltd., 2009.01-2010.12
 
 #### Research Interests
-* Fire safety of modern buildings using timber-integrated design and automated construction
+* Fire safety of modern buildings 
+* Automated construction for future buildings
 * Computational modelling & Hybrid simulation/testing 
 * [OpenSees software](https://openseesforfire.github.io/) development 
 
@@ -42,7 +43,7 @@ liming.jiang(at)Polyu.edu.hk
 #### Editorial Duties
 * Editorial Board Member of [Fire Safety Journal(JCR Q2)](https://www.sciencedirect.com/journal/fire-safety-journal)
 * Editorial Board Member of [Fire Technology(JCR Q2)](https://link.springer.com/journal/10694/editors)
-* "建筑钢结构进展"青年编委 (Young Editor Board Member of "Building Steel Structures Progress")
+* "建筑钢结构进展"青年编委 (Young Editor Board Member of "Progress in Building Steel Structures ")
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
