@@ -7,17 +7,61 @@ image: team.jpg
 
 ## Research Team
 #### Post-Doc Researchers
-* Dr LI Shouzhen( working on 3D printing solution development)
-* Dr WU Taotao (working on steel-concrete composite sections)
-* Dr ZHANG Zixin (working on topology optimization, previous PhD student)
-* Dr QIU Jin (working on structural fire simulation, pervious PhD student) 
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+	<td><b>Dr LI Shouzhen</b><br /> (AI applications and construction robot development)</td>
+	<td><img src="/images/shouzhen_profile.jpg" width="150"> </td>
+  </tr>
+  <tr>
+	<td><b>Dr Wu Taotao</b><br /> (3D concrete printing for strructural members)</td>
+	<td><img src="/images/taotao.jpg" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>Dr JI Wei</b><br /> (OpenSees modelling, AI-FE Hybrid simulation testing)</td>
+	<td><img src="/images/jiweiprofile.png" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>Dr ZHAO Jingxian</b><br /> (Timber engineering,fire simulation of timber structures)</td>
+	<td><img src="/images/Jingxian-Zhao.png" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>Dr QIU Jin (part-time postdoc)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
+	<td><img src="/images/Jin-Qiu-18.png" width="150"></td>
+  </tr>
+</table>
 
-#### Supervising PhD Projects
+#### PhD students
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+	<td><b>CHU Tianwei</b><br /> Excahange to Ghent University supported by PolyU Funding <br /> Investigation of fire behaviour in modern building compartments <br />considering window glass breakage and active ventilation </td>
+	<td><img src="/images/Tianwei-Chu.png" width="150"> </td>
+  </tr>
+  <tr>
+	<td><b>CHEN Cheng</b><br /> Simulation of Timber Material in fire <br /> fire behaviour of compartments with timber-protection-mixed ceiling</td>
+	<td><img src="/images/ChengChen.png" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>WANG Ganyu (start in 2023 Jan)</b><br /> Funded by RISUD RPg Scholarship <br/>BEng& MSc of Zhejiang University</td>
+	<td><img src="/images/Panel2.jpg" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>XU Binyan (start in 2024 Sep)</b><br /> Funded by PolyU Presidential PhD Scholarship <br /> BEng& MSc of Central South University </td>
+	<td><img src="/images/Panel2.jpg" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>NIE Yifan (start in 2024 Sep)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
+	<td><img src="/images/Panel2.jpg" width="150"></td>
+  </tr>
+  <tr>
+	<td><b>ZENG Wenxin (start in 2025 Sep)</b><br /> Funded by PolyU Competitive 3+1 Scholarship <br /> BEng& MSc of Central South University </td>
+	<td><img src="/images/Panel2.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>WANG Jinjin (start in 2025 May)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
+	<td><img src="/images/Panel2.jpg" width="150"></td>
+  </tr>
+</table>
 
-* Mr CHEN Cheng: Simulation of Timber Material and Structural Members in Fires with OpenSees Framework
-* Mr CHU Tianwei (Excahange to Ghent University supported by PolyU Funding): Investigation of fire behaviour in modern building compartments considering window glass breakage and active ventilation (CFD simulation of large comaprtment fire, vertical fire impact, a novel methodology of active opening, glass breakage behaviour), [[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Tianwei-Chu)]
-* Ms WANG Ganyu[Funded by RISUD RPg Scholarship]
-* Ms XU Binyan [Funded by PolyU Presidential PhD Scholarship, joining in Sep 2024](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
 
 
 #### Co-supervising/co-advising PhD students
@@ -25,8 +69,6 @@ image: team.jpg
 * Mr Vihar Nijme
 * Mr WANG Junsong[Chief Supervisor: Prof Usmani]
 
-#### Research Assistants
-Ms Wang Jinjin
 
 #### Incoming Exchange PhD Researcher
 Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
