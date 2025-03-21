@@ -65,34 +65,58 @@ image: team.jpg
 
 
 #### Co-supervising/co-advising PhD students
-* Mr Venkata Ramakanth
-* Mr Vihar Nijme
-* Mr WANG Junsong[Chief Supervisor: Prof Usmani]
+* Mr Nima Paslar (Wsstern Sydney University, Chief Supervisor：Prof Zhong Tao)
+* Mr Venkata Ramakanth(Hong Kong PolyU, Chief Supervisor: Prof Asif Usmani)
+* Mr Vihar Nijme(Hong Kong PolyU,Chief Supervisor: Prof Asif Usmani)
+* Mr WANG Junsong(Hong Kong PolyU,Chief Supervisor: Prof Asif Usmani)
 
-
-#### Incoming Exchange PhD Researcher
-Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
-
-## Previouly supervised PhD projects
-* Dr QIU Jin: Simulation of Building Structures in Fires with Modern Designed Slabs 
-(Development of OpenSees fire models for composite slabs, integrated slab section, AI columns, AI-FE simulation framework, and experimental tests), [[check Qiujin's research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
-* Dr ZHANG Zixin: Development and application of isogeometric structural design platform towards future application
-(Construction-oriented Topology optimization, OpenSees Iosgeometric Topology Optimization, Novel multi-pattern control),
-[[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
 
 ## Previsou Team Members
-* Post-doc researcher: Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
+* <b>Post-doc researcher:</b> 
+
+Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
 [[check Xuesong's research at ResearchGate](https://www.researchgate.net/profile/Xuesong-Cai-3)]
-* Co-supervised PhD student: Ms NAN Zhuojun [Chief Supervisor: Prof Usmani]:
+
+Dr ZHANG Zixin (now working in Tesla)
+[[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
+* <b>PhD Students as Chief Supervisor:</b> 
+
+Dr QIU Jin: Simulation of Building Structures in Fires with Modern Designed Slabs 
+(Development of OpenSees fire models for composite slabs, integrated slab section, AI columns, AI-FE simulation framework, and experimental tests), [[check Qiujin's research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
+
+
+
+* <b>PhD Students as Co-Supervisor:</b>  
+
+Dr NAN Zhuojun [Chief Supervisor: Prof Usmani]:
 (Travelling fire behaviour, burning dynamics on non-uniform fuel bed)
 [[check Zhuojun's research at ResearchGate](https://www.researchgate.net/profile/Zhuojun-Nan)]
-* Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan (Now Lecturer in University of Canterbury)
-* Jointly supervised MSc student(Tongji): Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore)
-* MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau;
-* Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Ying Tun Lam (FSICA 2022 Award winner, for best FYP), Ms CHAN Wai Shan, Mr Wan Oscar Man
-* FYP student: LIU Jiahao (FSICA 2023 Award Winnder)
-* Incoming Exchange PhD Researcher: Mr WANG Zhiruoyu (University of Queensland)
-* Visiting Research Students: Mr LIANG Siyu (Tongji University), Mr Wang Ziqi (Chong Qing University)
+
+Dr ZHANG Zixin: Development and application of isogeometric structural design platform towards future application
+(Construction-oriented Topology optimization, OpenSees Iosgeometric Topology Optimization, Novel multi-pattern control)
+
+* <b>Jointly supervised MSc student by research</b>  
+
+Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore)
+
+* <b>Undergraduate Research Students</b> (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)):  
+
+ Ms Ying Tun Lam (FSICA 2022 Award winner, for best FYP)
+ Ms CHAN Wai Shan 
+ Mr Wan Oscar Man
+
+* <b>Incoming Exchange PhD Researchers</b> (Supported by [PolyU Research Attachment Scheme](https://www.polyu.edu.hk/en/geo/exchange-and-study-abroad/incoming-students/):  
+
+Mr WANG Zhiruoyu (University of Queensland)
+
+Dr HASSOUNE Mohammed (University of Blida 1, Algeria)
+
+
+* <b>Visiting Research Students</b> from collaborators' teams
+
+ Mr LIANG Siyu (Mechanical Engineering, Tongji University)
+
+ Mr Wang Ziqi (Civil Engineering, Chong Qing University)
 
 ## Opportunities
 * [Hong Kong PhD Fellowship](https://www.polyu.edu.hk/gs/hkpfs/what_is_the_fellowship.html), application entry: [PolyU HKPF Application](https://www.polyu.edu.hk/gs/hkpfs/how_to_apply.html)
