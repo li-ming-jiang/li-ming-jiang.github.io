@@ -48,20 +48,19 @@ liming.jiang(at)Polyu.edu.hk
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic Posts
-* Program Leader of MSc Fire and Safety Engineering.
+* Program Leader of [Master of Science in Fire and Safety Engineering](https://www.polyu.edu.hk/beee/study/taught-postgraduate-programmes/master-of-science-in-fire-and-safety-engineering/?sc_lang=en).
 * Vice Director of International Joint Research Laboratory on Fire Safety Engineering (based in Tongji University).
-* Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
-* Member of Technical Committee of The Code of Practice for Fire Safety in Buildings, Hong Kong Building Department.
-* Member of Education Committee of International Association for Fire Safety Science. 
+* Member of Education Committee of International Association for Fire Safety Science (IAFSS). 
+* Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html), Hong Kong Building Department.
+* Member of Scientific Committee of Structural Fire Engineering Symposium (全国结构防火技术研讨会学术委员会).
+* Chair of Organising Committee of [International Conference on Structures in Fire (SIF2022)](https://www.sif2022.org/).
 * Organising Chair of MS-05(Structures in Fire) in 1st International Conference of Engineering Structures, Nov, 2024.
 * Co-organiser of 1st Workshop for International Joint Laboratory on Fire Safety Engineering, Wuhan, 2024.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
-* Chair of Organising Committee of International Conference on Structures in Fire (SIF2022).
-* Member of Society of Fire Protection Engineers (SFPE)
-* Member of International Association for Fire Safety Sceience (IAFSS)
-* Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
+* Member of Society of Fire Protection Engineers (SFPE).
+* Member of International Association for Fire Safety Sceience (IAFSS).
 * Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee member of IFireSS 2025.
