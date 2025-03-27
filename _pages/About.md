@@ -34,8 +34,8 @@ liming.jiang(at)Polyu.edu.hk
 * Assistant Engineer, Hengyu Special Structures Construction Co.Ltd., 2009.01-2010.12
 
 #### Research Interests
-* Fire safety of modern buildings 
-* Automated construction for future buildings
+* Fire safety of modern buildings (modern design, timber, glass,detection, firefighting)
+* Automated construction for future buildings(Robot-based, automated construction solution)
 * Computational modelling & Hybrid simulation/testing 
 * [OpenSees software](https://openseesforfire.github.io/) development 
 
@@ -59,9 +59,6 @@ liming.jiang(at)Polyu.edu.hk
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
-* Member of Society of Fire Protection Engineers (SFPE).
-* Member of International Association for Fire Safety Sceience (IAFSS).
-* Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee member of IFireSS 2025.
 * Scientific Committee Member of AOSFST 2021.
@@ -71,6 +68,12 @@ liming.jiang(at)Polyu.edu.hk
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
 * Reviewer for more than 30 international journals, including “Engineering Structures”, "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
+* Member of Faculty Board of FCE.
+* Member of Department Mangament Committee (DMC) of BEEE.
+* Member of Learning and Teaching Committee (DLTC) of BEEE. 
+* Member of Society of Fire Protection Engineers (SFPE).
+* Member of International Association for Fire Safety Sceience (IAFSS).
+* Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 
 #### Grants
 -External Grants
