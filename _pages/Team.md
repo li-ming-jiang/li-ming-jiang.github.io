@@ -14,7 +14,7 @@ image: team.jpg
   </tr>
   <tr>
 	<td><b>Dr Wu Taotao</b><br /> (3D concrete printing for strructural members)</td>
-	<td><img src="/images/taotao.jpg" width="150"></td>
+	<td><img src="/images/Taotao.jpg" width="150"></td>
   </tr>
   <tr>
 	<td><b>Dr JI Wei</b><br /> (OpenSees modelling, AI-FE Hybrid simulation testing)</td>
@@ -46,11 +46,11 @@ image: team.jpg
   </tr>
   <tr>
 	<td><b>XU Binyan (start in 2024 Sep)</b><br /> Funded by PolyU Presidential PhD Scholarship <br /> BEng& MSc of Central South University </td>
-	<td><img src="/images/Panel2.jpg" width="150"></td>
+	<td><img src="/images/Xubinyan.jpg" width="150"></td>
   </tr>
   <tr>
 	<td><b>NIE Yifan (start in 2024 Sep)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
-	<td><img src="/images/Panel2.jpg" width="150"></td>
+	<td><img src="/images/NieYifan_profile.jpg" width="150"></td>
   </tr>
   <tr>
 	<td><b>ZENG Wenxin (start in 2025 Sep)</b><br /> Funded by PolyU Competitive 3+1 Scholarship <br /> BEng& MSc of Central South University </td>
