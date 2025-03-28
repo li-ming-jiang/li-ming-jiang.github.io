@@ -58,7 +58,7 @@ image: team.jpg
   </tr>
     <tr>
 	<td><b>WANG Jinjin (start in 2025 May)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
-	<td><img src="/images/Panel2.jpg" width="150"></td>
+	<td><img src="/images/wangjinjin.jpg" width="150"></td>
   </tr>
 </table>
 
