@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FCE Large Equipment Fund is awarded
-date:   2025-03-28 13:01:35 +0800
+date:   2025-03-27 13:01:35 +0800
 image:  funding.png
 tags:   News
 ---
