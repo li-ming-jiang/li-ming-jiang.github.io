@@ -42,7 +42,7 @@ image: team.jpg
   </tr>
   <tr>
 	<td><b>WANG Ganyu (start in 2023 Jan)</b><br /> Funded by RISUD RPg Scholarship <br/>BEng& MSc of Zhejiang University</td>
-	<td><img src="/images/Panel2.jpg" width="150"></td>
+	<td><img src="/images/Ganyu.jpg" width="150"></td>
   </tr>
   <tr>
 	<td><b>XU Binyan (start in 2024 Sep)</b><br /> Funded by PolyU Presidential PhD Scholarship <br /> BEng& MSc of Central South University </td>

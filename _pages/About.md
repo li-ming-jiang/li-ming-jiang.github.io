@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-I am an Assistant Professor in Department of Building Environment and Energy Engineering in The Hong Kong Polytechnic University. I primarily work in the two aspects of "Structures in Fire", i.e., fire safety engineering for modern building structures, and future-oriented structural solutions using automated technologies. 
+I am an Assistant Professor(Tenured Associate Professor in July 2025) in Department of Building Environment and Energy Engineering in The Hong Kong Polytechnic University. I primarily work in the two aspects of "Structures in Fire", i.e., fire safety engineering for modern building structures, and future-oriented structural solutions using automated technologies. 
 我現任職于香港理工大學建築環境及能源工程學系，主要研究現代建築結構的火災安全及面向未來的自動化施工的結構方案。
 
 ***
@@ -21,6 +21,7 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Work Experience
 -In University
+* Associate Professor, BEEE, The Hong Kong Polytechnic University, from 2025.07 
 * Assistant Professor, BEEE, The Hong Kong Polytechnic University, from 2019.10  
 * Program Leader of MSc Fire Safety Engineering, BEEE, The Hong Kong Polytechnic University, from 2024  
 * Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
