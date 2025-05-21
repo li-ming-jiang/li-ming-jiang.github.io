@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  PhD Student Tianwei Chu successfully defended his thesis with 'excellent' rating
-date:   2024-03-01 11:01:35 +0800
+date:   2025-03-01 11:01:35 +0800
 image:  tianwei_VIVA.jpg
 tags:   News
 ---
