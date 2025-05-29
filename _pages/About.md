@@ -48,7 +48,7 @@ liming.jiang(at)Polyu.edu.hk
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
-#### Academic Posts
+#### Academic/Technical Posts
 * Program Leader of [Master of Science in Fire and Safety Engineering](https://www.polyu.edu.hk/beee/study/taught-postgraduate-programmes/master-of-science-in-fire-and-safety-engineering/?sc_lang=en).
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of International Association for Fire Safety Science (IAFSS). 
