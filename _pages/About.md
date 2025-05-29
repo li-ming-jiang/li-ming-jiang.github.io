@@ -52,7 +52,9 @@ liming.jiang(at)Polyu.edu.hk
 * Program Leader of [Master of Science in Fire and Safety Engineering](https://www.polyu.edu.hk/beee/study/taught-postgraduate-programmes/master-of-science-in-fire-and-safety-engineering/?sc_lang=en).
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of International Association for Fire Safety Science (IAFSS). 
-* Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html), Hong Kong Building Department.
+* Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html)of Hong Kong Buildings Department.
+* Member of Fire Safety Committee of Hong Kong Buildings Department
+* Member of Advisory Committee for Fire Safety Ordinances of Hong Kong Buildings Department
 * Member of Scientific Committee of Structural Fire Engineering Symposium (全国结构防火技术研讨会学术委员会).
 * Chair of Organising Committee of [International Conference on Structures in Fire (SIF2022)](https://www.sif2022.org/).
 * Organising Chair of MS-05(Structures in Fire) in 1st International Conference of Engineering Structures, Nov, 2024.
