@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-I am an Assistant Professor(Tenured Associate Professor in July 2025) in Department of Building Environment and Energy Engineering in The Hong Kong Polytechnic University. I primarily work in the two aspects of "Structures in Fire", i.e., fire safety engineering for modern building structures, and future-oriented structural solutions using automated technologies. 
+I am a Tenured Associate Professor in Department of Building Environment and Energy Engineering in The Hong Kong Polytechnic University. I primarily work in the two aspects of "Structures in Fire", i.e., fire safety engineering for modern building structures, and future-oriented structural solutions using automated technologies. 
 我現任職于香港理工大學建築環境及能源工程學系，主要研究現代建築結構的火災安全及面向未來的自動化施工的結構方案。
 
 ***
@@ -21,8 +21,8 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Work Experience
 -In University
-* Associate Professor, BEEE, The Hong Kong Polytechnic University, from 2025.07 
-* Assistant Professor, BEEE, The Hong Kong Polytechnic University, from 2019.10  
+* Associate Professor, BEEE, The Hong Kong Polytechnic University, 2025.07-present
+* Assistant Professor, BEEE, The Hong Kong Polytechnic University, 2019.10-2025.06
 * Program Leader of MSc Fire Safety Engineering, BEEE, The Hong Kong Polytechnic University, from 2024  
 * Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
 * Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12
@@ -112,7 +112,8 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
-* Wiley Top Downloaded Article 2022, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
+* ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering, 2024.
+* Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
 * Editor's Featured Paper Award of "Engineering Structures" Journal, "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
 * Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
 * Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
@@ -120,6 +121,7 @@ liming.jiang(at)Polyu.edu.hk
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
 -Awards to Supervised Students or Projects
+* FSICA Award 2025 to Mr Chin Lok Hei for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
 * Best URIS Project Award (Merit Award)to Miss LAM Ying Tung (as project supervisor), 2023
 * IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author) .
 * FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
