@@ -44,7 +44,7 @@ liming.jiang(at)Polyu.edu.hk
 #### Editorial Duties
 * Editorial Board Member of [Fire Safety Journal(JCR Q2)](https://www.sciencedirect.com/journal/fire-safety-journal)
 * Editorial Board Member of [Fire Technology(JCR Q2)](https://link.springer.com/journal/10694/editors)
-* "建筑钢结构进展"青年编委 (Young Editor Board Member of "Progress in Building Steel Structures ")
+* "建筑钢结构进展"首届青年编委 (Early Career Editorial Board Member of "Progress in Building Steel Structures ")
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
@@ -112,7 +112,8 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
-* ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering, 2024.
+* Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering, 2025.
+* ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering, 2025.
 * Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
 * Editor's Featured Paper Award of "Engineering Structures" Journal, "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
 * Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
