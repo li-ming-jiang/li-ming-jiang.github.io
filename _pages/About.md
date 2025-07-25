@@ -72,7 +72,6 @@ liming.jiang(at)Polyu.edu.hk
 * Reviewer for more than 30 international journals, including “Engineering Structures”, "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 * Member of Faculty Board of FCE.
-* Member of Department Mangament Committee (DMC) of BEEE.
 * Member of Learning and Teaching Committee (DLTC) of BEEE. 
 * Member of Society of Fire Protection Engineers (SFPE).
 * Member of International Association for Fire Safety Sceience (IAFSS).
@@ -86,7 +85,7 @@ liming.jiang(at)Polyu.edu.hk
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
 * RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
 * Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
-* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI.
+* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI(Tongji Collaborator: Prof Guo-Qiang Li).
 * SHUA Research Activity Fund, 40K HKD, 2021, PI.
 
 
