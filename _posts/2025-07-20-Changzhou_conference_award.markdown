@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Recieved Best Paper Award in 25th National Symposium on Modern Structural Engineering  
+title:  Received Best Paper Award in 25th National Symposium on Modern Structural Engineering  
 date:   2025-07-20 18:01:35 +0800
 image:  changzhou_award.jpg
 tags:   News
