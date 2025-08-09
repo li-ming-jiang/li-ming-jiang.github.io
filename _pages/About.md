@@ -49,13 +49,24 @@ liming.jiang(at)Polyu.edu.hk
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic/Technical Posts
+-Institutional duties
 * Program Leader of [Master of Science in Fire and Safety Engineering](https://www.polyu.edu.hk/beee/study/taught-postgraduate-programmes/master-of-science-in-fire-and-safety-engineering/?sc_lang=en).
+* Board member of Euroasian OpenSees Association (1 out of 7).
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of International Association for Fire Safety Science (IAFSS). 
 * Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html)of Hong Kong Buildings Department.
 * Member of Fire Safety Committee of Hong Kong Buildings Department
 * Member of Advisory Committee for Fire Safety Ordinances of Hong Kong Buildings Department
 * Member of Scientific Committee of Structural Fire Engineering Symposium (全国结构防火技术研讨会学术委员会).
+* Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
+* Member of Faculty Board of FCE.
+* Member of Department Staffing Committee of BEEE,2025-2027.
+* Member of Learning and Teaching Committee (DLTC) of BEEE. 
+* Member of Society of Fire Protection Engineers (SFPE).
+* Member of International Association for Fire Safety Sceience (IAFSS).
+* Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
+
+-Conference posts
 * Chair of Organising Committee of [International Conference on Structures in Fire (SIF2022)](https://www.sif2022.org/).
 * Organising Chair of MS-05(Structures in Fire) in 1st International Conference of Engineering Structures, Nov, 2024.
 * Co-organiser of 1st Workshop for International Joint Laboratory on Fire Safety Engineering, Wuhan, 2024.
@@ -65,17 +76,14 @@ liming.jiang(at)Polyu.edu.hk
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee member of IFireSS 2025.
 * Scientific Committee Member of AOSFST 2021.
-* Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022, SiF2024.
+* Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022, SiF2024, SiF2026.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
 * Session Chair of Protect 2024.
-* Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
+
+-Reviewing duties
 * Reviewer for more than 30 international journals, including “Engineering Structures”, "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
-* Member of Faculty Board of FCE.
-* Member of Learning and Teaching Committee (DLTC) of BEEE. 
-* Member of Society of Fire Protection Engineers (SFPE).
-* Member of International Association for Fire Safety Sceience (IAFSS).
-* Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
+
 
 #### Grants
 -External Grants
