@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Received Philip Thomas Medal of Excellence from IAFSS  
-date:   2025-09-10 18:01:35 +0800
+date:   2025-09-10 09:01:35 +0800
 image:  iafss_medal.png
 tags:   News
 ---
