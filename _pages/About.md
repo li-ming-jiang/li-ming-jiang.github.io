@@ -120,6 +120,7 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
+* IAFSS 2026 Philip Thomas Medal of Excellence, International Association of Fire Safety Science, 2025.
 * Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering, 2025.
 * ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering, 2025.
 * Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
