@@ -17,8 +17,8 @@ image: team.jpg
 	<td><img src="/images/Taotao.jpg" width="150"></td>
   </tr>
   <tr>
-	<td><b>Dr JI Wei</b><br /> (OpenSees modelling, AI-FE Hybrid simulation testing)</td>
-	<td><img src="/images/jiweiprofile.png" width="150"></td>
+	<td><b>Dr MUDDASSIR Muhammad</b><br /> (Robotic Control)</td>
+	<td><img src="/images/muddsar.jpeg" width="150"></td>
   </tr>
   <tr>
 	<td><b>Dr ZHAO Jingxian</b><br /> (Timber engineering,fire simulation of timber structures)</td>
