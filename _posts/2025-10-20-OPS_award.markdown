@@ -1,0 +1,11 @@
+---
+layout: post
+title:  OpenSees Best Paper Award (certification of distinction)  
+date:   2025-10-20 18:01:35 +0800
+image:  ops_award.png
+tags:   News
+---
+## OpenSees Best Paper Award (certification of distinction) 
+
+Our paper published in Engineering Structures on modular AI model has received the Best Paper (certification of distinction) at 1st EOS OpenSees Research and Innovation Awards. The paper title is "Development of modular and reusable AI models for fast predicting fire behaviour of steel columns in structural systems"--[https://doi.org/10.1016/j.engstruct.2023.116994](https://doi.org/10.1016/j.engstruct.2023.116994)
+
