@@ -120,6 +120,7 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
+* OpenSees Best Paper Award (certification of distinction), The 1st EOS OpenSees Award, [EuroAsian OpenSees Association](https://www.eurasianopensees.com/), 2025
 * [IAFSS 2026 Philip Thomas Medal of Excellence](https://iafss.org/awards/philip-thomas-medal-of-excellence/), International Association for Fire Safety Science (IAFSS), 2025.
 * Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering, 2025.
 * [ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering](https://ascelibrary.org/jsendh/outstanding_reviewers), 2025.
