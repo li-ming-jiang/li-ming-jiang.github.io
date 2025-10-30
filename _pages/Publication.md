@@ -31,6 +31,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 8. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *. 2024. [Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests](https://doi.org/10.1002/eqe.4138), Earthquake Engineering and Structural Dynamics. (https://doi.org/10.1002/eqe.4138)
 9. J. Qiu, Liming Jiang*, G. Lou, C. Yang, X.Cai,J. Jiang, Y. Wang, A. Usmani,G-Q. Li.2024.[Experimental investigation of precast composite slabs subjected to natural fires](https://doi.org/10.1016/j.conbuildmat.2024.138148), Construction and Building Materials, 448, 138148.(https://doi.org/10.1016/j.conbuildmat.2024.138148）
 10. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2024. [A novel multi-pattern control for automated structure design using topology optimization to balance form and performance](https://doi.org/10.1016/j.engstruct.2024.117581), Engineering Structures, 303, 117581. (https://doi.org/10.1016/j.engstruct.2024.117581)
+11. Liming Jiang, X.Huang, A. Orabi, C. ZHang. 2024. [Special Issue on Structures in Fire 2022](https://doi.org/10.1007/s10694-024-01597-7), 60, 2261-2263. (Editorial)(https://doi.org/10.1007/s10694-024-01597-7)
 11. A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2024. [The Collapse of World Trade Center 7: Revisited](https://doi.org/10.1007/s10694-022-01225-2). Fire Technology, 60(5), 2693-2990.(https://doi.org/10.1007/s10694-022-01225-2)
 
 
