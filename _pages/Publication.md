@@ -6,7 +6,8 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. M. Liu, B. Tang, J. Liu, Y. Chang, P. Wang, Liming Jiang, 2026. [echanical properties of CMT-WAAM 2209 duplex stainless steel at elevated temperatures in a fir](https://doi.org/10.1016/j.tws.2025.114043), Thin Walled Structures. 218, 114043. https://doi.org/10.1016/j.tws.2025.114043
+1. M. Liu, B. Tang, J. Liu, Y. Chang, P. Wang, Liming Jiang, 2026. [Mechanical properties of CMT-WAAM 2209 duplex stainless steel at elevated temperatures in a fir](https://doi.org/10.1016/j.tws.2025.114043), Thin Walled Structures. 218, 114043. https://doi.org/10.1016/j.tws.2025.114043
+2. C.Chen, F. Wiesner, P. Kotsovinos, T. Chu, Y. Nie, A. Usmani, Liming Jiang*, 2025. Applying Timber-insulation Mixed Ceiling Strategy in CFD Simulationof Large Open-plan Compartment with Non-uniform Fuel Load, Fire Safety Journal (revision submitted).
 2. T.Chu, W.Zeng, G.Zhang,A.Usmani, Liming Jiang*, 2025. [Using ‘active opening’ of windows for fire safety of modern buildings considering more realistic setup](https://doi.org/10.1016/j.applthermaleng.2025.128884).Applied Thermal Engineering. 128884.
 3. Wei Ji, J.Qiu, G-Q.Li, A.Usmani, L.Jiang*, Modular Ai-empowered Hybrid Simulation Framework for Next Generation Modelling of Structures in Fire, HKIE Transactions (under review).
 3. J. Wang, C. Demartino, A. Sberna, Liming Jiang, A. Usmani, 2025. [Enhanced Compressive Performance and Energy Absorption in SLM-Fabricated 316L Arrowhead Auxetics via Tendon and Stuffer Geometry Modification](https://doi.org/10.1016/j.compstruct.2025.119710), Composite Structures.374, 119710 (https://doi.org/10.1016/j.compstruct.2025.119710)
