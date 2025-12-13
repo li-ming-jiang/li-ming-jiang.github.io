@@ -125,21 +125,18 @@ liming.jiang(at)Polyu.edu.hk
 * [2025] [IAFSS 2026 Philip Thomas Medal of Excellence](https://iafss.org/awards/philip-thomas-medal-of-excellence/), International Association for Fire Safety Science (IAFSS), 2025. (One in every three years)
 * [2025] Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering.
 * [2025] [ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering](https://ascelibrary.org/jsendh/outstanding_reviewers), 2025.
+* [2025] FSICA Award 2025 to Mr Chin Lok Hei for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
 * [2024] Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
 * [2023] [Editor's Featured Paper Award of "Engineering Structures" Journal](https://www.sciencedirect.com/journal/engineering-structures/about/editors-choice-awards/featured-papers-for-vols-294-297), "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
+* [2023] Best URIS Project Award (Merit Award)to Miss LAM Ying Tung](https://www.polyu.edu.hk/gs/ug-research/uris/best-uris-research-project-award-2023/) (as project supervisor), 2023
+* [2023] IAFSS Sheldon Tieszen Student Award](https://iafss.org/awards/sheldon-tieszen-student-awards/) to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author).
+* [2023] FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
+* [2023] The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" (as project supervisor).
 * [2022] Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering.
+* [2022] FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance in fire safety engineering in Hong Kong(as project supervisor).
 * [2021] Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
 * [2021] Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * [2018] Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
-
--Awards to Supervised Students or Projects
-* FSICA Award 2025 to Mr Chin Lok Hei for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
-* [Best URIS Project Award (Merit Award)to Miss LAM Ying Tung](https://www.polyu.edu.hk/gs/ug-research/uris/best-uris-research-project-award-2023/) (as project supervisor), 2023
-* [IAFSS Sheldon Tieszen Student Award](https://iafss.org/awards/sheldon-tieszen-student-awards/) to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author) .
-* FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
-* The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" (as project supervisor).
-* The HKIE (Fire Division) Scholarship 2022 to Miss LAM Ying Tung for student excellence in fire safety engineering (as project supervisor).
-* FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance in fire safety engineering in Hong Kong(as project supervisor).
 
 
 #### Teaching Subjects
