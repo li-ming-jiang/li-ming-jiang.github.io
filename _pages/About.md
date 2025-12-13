@@ -120,16 +120,17 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
-* OpenSees Best Paper Award (certification of distinction), The 1st EOS OpenSees Award, [EuroAsian OpenSees Association](https://www.eurasianopensees.com/), 2025
-* [IAFSS 2026 Philip Thomas Medal of Excellence](https://iafss.org/awards/philip-thomas-medal-of-excellence/), International Association for Fire Safety Science (IAFSS), 2025. (One in every three years)
-* Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering, 2025.
-* [ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering](https://ascelibrary.org/jsendh/outstanding_reviewers), 2025.
-* Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
-* [Editor's Featured Paper Award of "Engineering Structures" Journal](https://www.sciencedirect.com/journal/engineering-structures/about/editors-choice-awards/featured-papers-for-vols-294-297), "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
-* Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
-* Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
-* Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
-* Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
+* 2025. Best Paper on Innovation, 12th International Conference on Advances in Steel Structures (ICASS 2025).
+* 2025. OpenSees Best Paper Award (certification of distinction), The 1st EOS OpenSees Award, [EuroAsian OpenSees Association](https://www.eurasianopensees.com/)
+* 2025. [IAFSS 2026 Philip Thomas Medal of Excellence](https://iafss.org/awards/philip-thomas-medal-of-excellence/), International Association for Fire Safety Science (IAFSS), 2025. (One in every three years)
+* 2025. Best Paper Award for Mid-aged and Young Academics, 25th National Symposium on Modern Structural Engineering.
+* 2025. [ASCE Outstanding Reviewer Award 2024 for Journal of Structural Engineering](https://ascelibrary.org/jsendh/outstanding_reviewers), 2025.
+* 2024. Wiley Top Downloaded Article 2024, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
+* 2023. [Editor's Featured Paper Award of "Engineering Structures" Journal](https://www.sciencedirect.com/journal/engineering-structures/about/editors-choice-awards/featured-papers-for-vols-294-297), "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
+* 2022. Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering.
+* 2021. Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
+* 2021. Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
+* 2018. Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
 -Awards to Supervised Students or Projects
 * FSICA Award 2025 to Mr Chin Lok Hei for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
