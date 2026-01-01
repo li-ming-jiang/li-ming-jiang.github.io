@@ -2,7 +2,7 @@
 layout: post
 title:  Prestigious Award: IAFSS Philip Thomas Medal of Excellence 
 date:   2025-09-09 18:01:35 +0800
-image:  iafss_medal.png
+image:  IAFSS_award_PT.png
 tags:   News
 ---
 ## Prestigious Award: IAFSS Philip Thomas Medal of Excellence
