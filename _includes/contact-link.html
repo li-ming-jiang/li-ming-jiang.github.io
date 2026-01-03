@@ -1,11 +1,11 @@
 <div class="contact">
   <ul class="contact__list list-reset">
-    {% if site.data.settings.twitter %}
-      <li><a href="https://www.researchgate.net/profile/Liming-Jiang-2">ResearchGate</a></li>
-    {% else %} {% endif %}
-
     {% if site.data.settings.facebook %}
       <li><a href="https://www.polyu.edu.hk/beee/people/academic-staff/jiang-liming/?sc_lang=en">PolyU</a></li>
+    {% else %} {% endif %}
+      
+    {% if site.data.settings.twitter %}
+      <li><a href="https://www.researchgate.net/profile/Liming-Jiang-2">ResearchGate</a></li>
     {% else %} {% endif %}
   
     {% if site.data.settings.dribbble %}
