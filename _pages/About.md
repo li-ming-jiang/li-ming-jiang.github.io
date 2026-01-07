@@ -88,7 +88,8 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Grants
 -External Grants
-* Sub-project of Shenzhen Key R&D Project (深圳市重大专项), 1M CNY (Total fund: 8M CNY), 2025-2027, PI.
+* Sub-project of Shenzhen Key Industrial R&D Scheme(深圳市重點產業研發計劃),0.5M CNY(Total Fund: 5M CNY)， 2026-2028, PI(PolyU).
+* Sub-project of Shenzhen Key R&D Project (深圳市重大專項), 1M CNY(Total fund: 8M CNY), 2025-2027, PI(PolyU).
 * RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
 * HKSTP Ideation Grant, 100K HKD, 2024, PI.
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
