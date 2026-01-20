@@ -21,9 +21,10 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Work Experience
 -In University
+* Associate Head (Partnership), BEEE, The Hong Kong Polytechnic University, 2026.01-present
 * Associate Professor, BEEE, The Hong Kong Polytechnic University, 2025.07-present
 * Assistant Professor, BEEE, The Hong Kong Polytechnic University, 2019.10-2025.06
-* Program Leader of MSc Fire Safety Engineering, BEEE, The Hong Kong Polytechnic University, from 2024  
+* Program Leader of MSc Fire Safety Engineering, BEEE, The Hong Kong Polytechnic University, 2024.09-2025.12  
 * Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
 * Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12
 * Postdoctoral Research Fellow, Brunel University London, 2016.01-2016.08
@@ -50,7 +51,6 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Academic/Technical Posts
 -Institutional duties
-* Program Leader of [Master of Science in Fire and Safety Engineering](https://www.polyu.edu.hk/beee/study/taught-postgraduate-programmes/master-of-science-in-fire-and-safety-engineering/?sc_lang=en).
 * Board member of [Eurasian OpenSees Association](https://www.eurasianopensees.com/) (1/7).
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of [International Association for Fire Safety Science (IAFSS)](https://iafss.org/). 
