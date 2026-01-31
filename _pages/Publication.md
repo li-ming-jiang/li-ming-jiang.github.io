@@ -6,6 +6,7 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
+1. C.Liu, B. Tawiah, A.C.Y. Yuen, Q. Chen, I.M. Cordeiro, Y. Zhang, Liming. Jiang, 2026. Integrating ReaxFF-MD simulations into fire safety performance evaluation of polypropylene/ammonium polyphosphate composites, Composites Part A: Applied Science and Manufacturing, 109610
 1. C.Chen, F. Wiesner, P. Kotsovinos, T. Chu, Y. Nie, A. Usmani, Liming Jiang*, 2026. [Applying Timber-insulation Mixed Ceiling Strategy in CFD Simulationof Large Open-plan Compartment with Non-uniform Fuel Load](https://doi.org/10.1016/j.firesaf.2025.104599), Fire Safety Journal. (https://doi.org/10.1016/j.firesaf.2025.104599)
 1. M. Liu, B. Tang, J. Liu, Y. Chang, P. Wang, Liming Jiang, 2026. [Mechanical properties of CMT-WAAM 2209 duplex stainless steel at elevated temperatures in a fire](https://doi.org/10.1016/j.tws.2025.114043), Thin Walled Structures. 218, 114043. (https://doi.org/10.1016/j.tws.2025.114043) 
 2. Q.Zhu, M. Liu, B. Lv, L.Zhang, P. Wang, L. Chen, Liming Jiang, 2025. [Load-carrying capacity and design method for thread-fixed one-side bolts connected CHS K-joints](https://doi.org/10.1016/j.jcsr.2025.109753), Journal of Constructional Steel Research. 234, 109753. (https://doi.org/10.1016/j.jcsr.2025.109753) 
