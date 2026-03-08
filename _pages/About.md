@@ -55,6 +55,8 @@ liming.jiang(at)Polyu.edu.hk
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of [International Association for Fire Safety Science (IAFSS)](https://iafss.org/). 
 * Member of Fire&life Safety Committee of [Council on Tall Buildings and Urban Habitat (CTBUH)](https://www.ctbuh.org/)
+* Fire Safety Expert Serving Hong Kong Indepdent Committee in relation to the fire at Wang Fuk Court at Tai Po
+* Member of the Registration Committee under Fire Services (Registered Fire Engineers) Regulation, Hong Kong Fire Services Department.
 * Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html)of Hong Kong Buildings Department.
 * Member of Fire Safety Committee of Hong Kong Buildings Department
 * Member of Advisory Committee for Fire Safety Ordinances of Hong Kong Buildings Department
@@ -62,9 +64,9 @@ liming.jiang(at)Polyu.edu.hk
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
 * Member of Faculty Board of FCE.
 * Member of Department Staffing Committee of BEEE,2025-2027.
-* Member of Learning and Teaching Committee (DLTC) of BEEE. 
 * Member of Society of Fire Protection Engineers (SFPE).
 * Member of International Association for Fire Safety Sceience (IAFSS).
+* Member of Council on Vertical Urbanism (also known as CTBUH).
 * Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 
 -Conference posts
