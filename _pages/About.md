@@ -92,6 +92,7 @@ liming.jiang(at)Polyu.edu.hk
 -External Grants
 * RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
 * RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
+* Sichuan-Universities Collaborative Key R&D Project (四川省省院省校科技合作重点研发项目)，2026-2027, PI(Hong Kong).
 * Sub-project of Shenzhen Key Industrial R&D Scheme(深圳市重點產業研發計劃),0.5M CNY(Total Fund: 5M CNY),2026-2028, PI(PolyU).
 * Sub-project of Shenzhen Key R&D Project (深圳市重大專項), 1M CNY(Total fund: 8M CNY), 2025-2027, PI(PolyU).
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
@@ -102,6 +103,7 @@ liming.jiang(at)Polyu.edu.hk
 
 
 -Internal Grants
+* PolyU Carbon Neutrality Fund, 2M HKD, 2026-2028, PI.
 * FCE Large Equipment Grant, 4M HKD, 2025-2026, PI.
 * BEEE Safety Research Fund, 1.5M HKD, 2024-2027, Co-I (0.3M to Dr Jiang).
 * BEEE Departmental Strategic Research Fund on "fire detection", 1M HKD, 2024-2027, PI.
