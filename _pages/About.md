@@ -32,7 +32,7 @@ liming.jiang(at)Polyu.edu.hk
 -In Industry
 * Project General Manager, [Country Garden Group ](https://www.bgy.com.cn/), 2019.05-2019.09 
 * Assistant Project General Manager, [Country Garden Group](https://www.bgy.com.cn/), 2018.05-2019.04 
-* ‘Global Future Leader’ Program, Senior Manager, [Country Garden Group](https://www.bgy.com.cn/), 2017.12-2019.05 
+* ‘Global Future Leader’ Program, Senior Manager, [Country Garden Group](https://www.bgy.com.cn/), 2017.12-2018.05 
 * Assistant Engineer, Hengyu Special Structures Construction Co.Ltd., 2009.01-2010.12
 
 #### Research Interests
