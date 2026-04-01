@@ -82,6 +82,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 13. S.W. Chen, Liming Jiang, A. Usmani and G.Q. Li, 2014. [Damage mechanisms in cementitious coatings on steel members in bending](https://doi.org/10.1680/stbu.13.00096). Proceedings of the ICE - Structures and Buildings, 168(5):351–369. 
 
 14. 廖志娟; 陈素文; 江黎明; 吴林森, 2012. 纯弯荷载下厚型钢结构防火涂层破损的试验研究和数值分析. 防灾减灾工程学报，32：197-204. 
+14. 陈素文；吴林森； 廖志娟; 江黎明, 2015. 纯拉荷载下厚型钢结构防火涂层破损的评估方法. 防灾减灾工程学报，35：36-43.(10.13409/j.cnki.jdpme.2015.01.007)
 15. 李晋宇;李国强;朱劭骏;张超;陈彬;吉蔚;戚洪辉;王尧;陈楠;杨晓琳;江黎明;聂勇峰;罗齐,2025. 既有桁架屋盖建筑火致倒塌试验与数值模拟. 建筑结构学报，46(3), 153-163.
 16. 吉蔚;李国强;江黎明;朱劭骏, 2026. 门式钢刚架建筑火灾状态实时反演与结构响应实时推演方法研究. 建筑结构学报.
 #### Book
