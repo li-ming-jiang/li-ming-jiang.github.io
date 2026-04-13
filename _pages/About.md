@@ -36,7 +36,8 @@ liming.jiang(at)Polyu.edu.hk
 * Assistant Engineer, Hengyu Special Structures Construction Co.Ltd., 2009.01-2010.12
 
 #### Research Interests
-* Fire safety of modern buildings (modern design, timber, glass,detection, firefighting)
+* Fire safety of modern buildings (modern design, timber, glass,detection)
+* Advanced fire safety solutions for modern cities 
 * Automated construction for future buildings(Robot-based, automated construction solution)
 * Computational modelling & Hybrid simulation/testing 
 * [OpenSees software](https://openseesforfire.github.io/) development 
@@ -50,12 +51,13 @@ liming.jiang(at)Polyu.edu.hk
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic/Technical Posts
--Institutional duties
+-Institutional posts
 * Board member of [Eurasian OpenSees Association](https://www.eurasianopensees.com/) (1/7).
 * Vice Director of [International Joint Research Laboratory on Fire Safety Engineering](https://irhsfse.com/) (based in Tongji University).
 * Member of Education Committee of [International Association for Fire Safety Science (IAFSS)](https://iafss.org/). 
 * Member of Fire&life Safety Committee of [Council on Tall Buildings and Urban Habitat (CTBUH)](https://www.ctbuh.org/)
-* Fire Safety Expert Serving Hong Kong Indepdent Committee in relation to the fire at Wang Fuk Court at Tai Po
+* Fire Safety Expert Serving [Hong Kong Indepdent Committee in relation to the fire at Wang Fuk Court at Tai Po](https://www.ic-wangfukcourtfire.gov.hk/pdf/Appointment-of-experts-Prof-Usmani-and-Prof-Jiang-(English).pdf) (1/2).
+* Member of Accreditation Panel for Hong Kong Council for Accreditation of Academic and Vocational Qualifications, 2025.
 * Member of the Registration Committee under Fire Services (Registered Fire Engineers) Regulation, Hong Kong Fire Services Department.
 * Member of [Technical Committee of The Code of Practice for Fire Safety in Buildings](https://www.bd.gov.hk/tc/resources/request-for-information/boards-and-committees/TCCOPFSB.html)of Hong Kong Buildings Department.
 * Member of Fire Safety Committee of Hong Kong Buildings Department
