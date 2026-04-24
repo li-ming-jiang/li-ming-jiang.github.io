@@ -127,6 +127,7 @@ liming.jiang(at)Polyu.edu.hk
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
+* [2026] HKIE Fire Division Scholarship to Mr Chan Chuen Chi for Excellent FYP performance (as project supervisor).
 * [2025] Best Paper on Innovation, 12th International Conference on Advances in Steel Structures (ICASS 2025).
 * [2025] OpenSees Best Paper Award (certification of distinction), The 1st EOS OpenSees Award, [EuroAsian OpenSees Association](https://www.eurasianopensees.com/)
 * [2025] [IAFSS 2026 Philip Thomas Medal of Excellence](https://iafss.org/awards/philip-thomas-medal-of-excellence/), International Association for Fire Safety Science (IAFSS), 2025. (One in every three years)
