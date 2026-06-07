@@ -1,0 +1,11 @@
+---
+layout: post
+title:  CVU Innovation Award of Excellence 
+date:   2026-05-27 18:01:35 +0800
+image:  CVUaward.png
+tags:   News
+---
+## 2026 Innovation Award of Excellence from Council of Vertical Urbanism 
+
+Our developed "active opening" window module integrating smoke detector and opening motors to achieve early stage fire spreading mitigation using active oopening has won 2026 Innovation Award of Excellence from Council of Vertical Urbanism. The official announcement is here: https://verticalurbanism.org/resources/award-recipients/a-novel-active-opening-window-module-for-fire-safety/
+
