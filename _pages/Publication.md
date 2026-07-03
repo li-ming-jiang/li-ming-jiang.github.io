@@ -6,7 +6,7 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. J.Zhao, C. Chen, A.Usmani, L. Jiang*, 2026. A Critical Review of Full-Scale Fire Tests and Prediction Methods for Timber-Concrete Composite Slab Floors, Journal of Structural Engineering.
+1. J.Zhao, C. Chen, A.Usmani, L. Jiang*, 2026. A Critical Review of Full-Scale Fire Tests and Prediction Methods for Timber-Concrete Composite Slab Floors, Journal of Structural Engineering.
 2. J. Zhao, T. Gernay, H. Liu*, J. Lu, Z. Zhao, Liming Jiang, 2026. Integrated fire-structural analysis of glulam reticulated shells: Fire response and post-fire performance, Engineering Structures. 
 2. J. Wang, C. Demartino, F.Faleschini, Liming Jiang, A. Usmani, 2026. Flexural performance of reinforced 3D-printed concrete beams: Critical interplay of interlayer anisotropy and bond-slip, Construction and Building Materials. 538, 147099. 
 2. S. Li,Y-H Wang*, R. Deng, Liming Jiang*,Vibration mitigation of steel-concrete hybrid wind turbine towers via guy ropes: stiffness analysis and dynamic performance evaluation. Structures.
