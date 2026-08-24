@@ -112,6 +112,40 @@ liming.jiang(at)Polyu.edu.hk
 * [2021] Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * [2018] Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
+#### Grants(As PI or Co-PI)
+-External Grants
+* RGC General Research Fund (GRF),992K HKD, 2027-2029, PI.
+* RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
+* RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
+* Sichuan-Universities Collaborative Key R&D Project (四川省省院省校科技合作重点研发项目)，2026-2027, PI(Hong Kong).
+* Sub-project of Shenzhen Key Industrial R&D Scheme(深圳市重點產業研發計劃),0.5M CNY(Total Fund: 5M CNY),2026-2028, PI(PolyU).
+* Sub-project of Shenzhen Key R&D Project (深圳市重大專項), 1M CNY(Total fund: 8M CNY), 2025-2027, PI(PolyU).
+* UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
+* HKSTP Ideation Grant, 100K HKD, 2024, PI.
+* Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
+* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI(Tongji Collaborator: Prof Guo-Qiang Li).
+* SHUA Research Activity Fund, 40K HKD, 2021, PI.
+
+
+-Internal Grants
+* PolyU Carbon Neutrality Fund, 2M HKD, 2026-2028, PI.
+* FCE Large Equipment Grant, 4M HKD, 2025-2026, PI.
+* BEEE Safety Research Fund, 1.5M HKD, 2024-2027, Co-I (0.3M to Dr Jiang).
+* BEEE Departmental Strategic Research Fund on "fire detection", 1M HKD, 2024-2027, PI.
+* PolyU Micro Fund Top Performer, 20K HKD, 2024(in progress towards Incubation Grant), PI.
+* PolyU Fund for collaborative research with World-Leading Research Groups, 1.99M HKD, 2024-2026, Co-PI.
+* Post-doc Matching Fund to Dr Ji Wei, 0.55M HKD, 2024-2026, Co-I.
+* Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
+* PolyU Incentive for Online Teaching Scheme, 792K HKD, 2023-2024, Co-PI.
+* RISUD Joint Research Fund, 1.2M HKD, 2023-2025, PI.
+* FCE Young Collaborative Research Fund, 500K HKD, 2023-2025, PI.
+* PolyU Large Equipment Fund for Teaching, 737K HKD, 2021-2022, PI.
+* Post-doc Matching Fund to Dr Cai Xuesong, 283K HKD, 2021-2022, PI.
+* University Start-up Fund, 600K HKD, 2020-2023, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
+
 
 #### Teaching Subjects
 * BSE3321:Fire Services, Undergraduate Subject
