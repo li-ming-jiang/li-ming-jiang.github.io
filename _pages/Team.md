@@ -66,7 +66,13 @@ image: team.jpg
   </tr>
 </table>
 
-
+#### MPhil students
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+	<td><b>CHAN Chit (2026 Sep)</b><br /> (Facade fire, MPhil)</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
+  </tr>
+</table>
 
 #### Co-supervising/co-advising PhD students
 * Mr Nima Paslar (Wsstern Sydney University, Chief Supervisor：Prof Zhong Tao)
