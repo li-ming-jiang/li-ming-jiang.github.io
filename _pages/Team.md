@@ -13,10 +13,6 @@ image: team.jpg
 	<td><img src="/images/shouzhen_profile.jpg" width="150"> </td>
   </tr>
   <tr>
-	<td><b>Dr Wu Taotao</b><br /> (3D concrete printing for strructural members)</td>
-	<td><img src="/images/Taotao.jpg" width="150"></td>
-  </tr>
-  <tr>
 	<td><b>Dr MUDDASSIR Muhammad</b><br /> (Robotic Control)</td>
 	<td><img src="/images/muddsar.jpeg" width="150"></td>
   </tr>
@@ -24,41 +20,49 @@ image: team.jpg
 	<td><b>Dr ZHAO Jingxian</b><br /> (Timber engineering,fire simulation of timber structures)</td>
 	<td><img src="/images/Jingxian-Zhao.png" width="150"></td>
   </tr>
-  <tr>
-	<td><b>Dr QIU Jin (part-time postdoc)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
-	<td><img src="/images/Jin-Qiu-18.png" width="150"></td>
-  </tr>
 </table>
 
 #### PhD students
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr>
-	<td><b>CHU Tianwei</b><br /> Excahange to Ghent University supported by PolyU Funding <br /> Investigation of fire behaviour in modern building compartments <br />considering window glass breakage and active ventilation </td>
-	<td><img src="/images/Tianwei-Chu.png" width="150"> </td>
-  </tr>
-  <tr>
-	<td><b>CHEN Cheng</b><br /> Simulation of Timber Material in fire <br /> fire behaviour of compartments with timber-protection-mixed ceiling</td>
-	<td><img src="/images/ChengChen.png" width="150"></td>
-  </tr>
-  <tr>
-	<td><b>WANG Ganyu (start in 2023 Jan)</b><br /> Funded by RISUD RPg Scholarship <br/>BEng& MSc of Zhejiang University</td>
+	<td><b>WANG Ganyu (2023 Jan)</b><br /> Funded by RISUD RPg Scholarship <br/>BEng& MSc of Zhejiang University</td>
 	<td><img src="/images/Ganyu.jpg" width="150"></td>
   </tr>
   <tr>
-	<td><b>XU Binyan (start in 2024 Sep)</b><br /> Funded by PolyU Presidential PhD Scholarship <br /> BEng& MSc of Central South University </td>
+	<td><b>XU Binyan (2024 Sep)</b><br /> Funded by PolyU Presidential PhD Scholarship <br /> BEng& MSc of Central South University </td>
 	<td><img src="/images/Xubinyan.jpg" width="150"></td>
   </tr>
   <tr>
-	<td><b>NIE Yifan (start in 2024 Sep)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
+	<td><b>NIE Yifan (2024 Sep)</b><br /> (Safe use of timber in fire )</td>
 	<td><img src="/images/NieYifan_profile.jpg" width="150"></td>
   </tr>
   <tr>
-	<td><b>ZENG Wenxin (start in 2025 Sep)</b><br /> Funded by PolyU Competitive 3+1 Scholarship <br /> BEng& MSc of Central South University </td>
+	<td><b>ZENG Wenxin (2025 Sep)</b><br /> Funded by PolyU Competitive 3+1 Scholarship <br /> BEng& MSc of Central South University </td>
 	<td><img src="/images/zengwenxin.jpg" width="150"></td>
   </tr>
     <tr>
-	<td><b>WANG Jinjin (start in 2025 May)</b><br /> (OpenSEES Simulation, modelling of composite structures )</td>
+	<td><b>WANG Jinjin (2025 May)</b><br /> (hybrid fire simulation )</td>
 	<td><img src="/images/wangjinjin.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>CHEN Guohan (2025 Sep)</b><br /> (3D concrete printing hybrid construction )</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>GONG Fangfang (2026 Jan)</b><br /> (UAV applications )</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>ZHENG Xiaofeng (2026 Jan)</b><br /> (FIre testing, Dual-Phd Program with Tongji University )</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>PENG Tailin (2026 Sep)</b><br /> (3D concrete printing hybrid construction)</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
+  </tr>
+    <tr>
+	<td><b>CHAN Chit (2026 Sep)</b><br /> (Facade fire, MPhil)</td>
+	<td><img src="/images/profile.jpg" width="150"></td>
   </tr>
 </table>
 
@@ -73,18 +77,24 @@ image: team.jpg
 
 ## Previsou Team Members
 * <b>Post-doc researcher:</b> 
+Dr WU Taotao (now Associated Profesor in Xiamen University of Technology)
 
 Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
 [[check Xuesong's research at ResearchGate](https://www.researchgate.net/profile/Xuesong-Cai-3)]
 
 Dr ZHANG Zixin (now working in Tesla)
 [[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
+
 * <b>PhD Students as Chief Supervisor:</b> 
 
 Dr QIU Jin: Simulation of Building Structures in Fires with Modern Designed Slabs 
-(Development of OpenSees fire models for composite slabs, integrated slab section, AI columns, AI-FE simulation framework, and experimental tests), [[check Qiujin's research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
+(Development of OpenSees fire models for composite slabs, integrated slab section, AI columns, AI-FE simulation framework, and experimental tests, now in CHN Energy Group), [[check Qiujin's research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
 
+Dr CHU Tianwei: [Fire behavior in modern buildings considering window glass fallout and active ventilation](https://theses.lib.polyu.edu.hk/handle/200/13729) 
+(Study on glass-fire interaction, large compartment fire behavior,novel active opening for mitigation of fire spread, now Associate Profesor at China University of Mining and Technology), [[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Tianwei-Chu)]
 
+Dr CHEN Cheng: [Simulation of timber material and structural members in fires with OpenSees framework](https://theses.lib.polyu.edu.hk/handle/200/14273) 
+(Study on timber in fire, large compartment with timber ceiling, novel timber-mixed ceiling), [[check Cheng's research at ResearchGate](https://www.researchgate.net/profile/Cheng-Chen-263)]
 
 * <b>PhD Students as Co-Supervisor:</b>  
 
