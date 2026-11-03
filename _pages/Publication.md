@@ -6,6 +6,7 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
+1.Z. Liu, S. Sun, L.Jiang, W. Xiao, 2026. Experimental and numerical investigations on the dynamic response and damage evolution of RC slabs under contact and close-in explosions. International Journal of Impact Engineering.
 1. J.Wang, Liming Jiang*, C.Song, C.Demartino#, A. Usmani, 2026. [Shear-keyed perforated steel plates for reinforcing 3D-printed concrete beams:Experimental study and numerical interpretation](https://doi.org/10.1016/j.jobe.2026.117155). Journal of Building Engineering, 117155.(https://doi.org/10.1016/j.jobe.2026.117155)
 2. J.Wang, C.Demartino#,M.Kai, D. Lai, W.Chen, Liming Jiang，A. Usmani, 2026. [Impact resistance of novel 3D-printed concrete composite beams under drop-weight loading: Experimental and numerical investigation](https://doi.org/10.1016/j.cemconcomp.2026.106796), Cement and Concrete Composite, 174, 106796.(https://doi.org/10.1016/j.cemconcomp.2026.106796)
 2. J.Zhao, C. Chen, A.Usmani, Liming Jiang*, 2026. [A Critical Review of Full-Scale Fire Tests and Prediction Methods for Timber-Concrete Composite Slab Floors](https://doi.org/10.1061/JSENDH.STENG-16191), Journal of Structural Engineering,152(10).(https://doi.org/10.1061/JSENDH.STENG-16191)
