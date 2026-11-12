@@ -1,0 +1,9 @@
+---
+layout: post
+title:  New Paper--A Critical Review of Full-Scale Fire Tests and Prediction Methods for Timber–Concrete Composite Slab Floors
+date:   2026-09-15 18:01:35 +0800
+image:  timber_slab_review.png
+tags:   Paper
+---
+## New paper--A Critical Review of Full-Scale Fire Tests and Prediction Methods for Timber–Concrete Composite Slab Floors
+With growing demand on low-carbon and fire-safe building solutions, timber-concrete composite (TCC) floors have emerged as a sustainable and efficient alternative. This paper reviews recent research on their fire performance, with emphasis on the research reported in the past five years, including 25 full-scale fire tests. Results show that CLT-concrete floors are prone to char fall-off, leading to sharp inner temperature rises and highly variable fire resistance (30-214 min), mainly influenced by load ratio, lamella thickness, and connection type. The fire resistance of slabs generally exceeded 90 min under service loads, and higher load ratios caused earlier failure. By contrast, NLT- and LVL-concrete systems exhibited stable charring and consistently higher resistance (>190 min). Current thermal models fail to capture abrupt temperature rise from delamination, and thermo-mechanical models often neglect connector degradation, causing deviations during extended fire exposure. Simplified analytical methods, such as the γ-method, provide useful estimates but require calibration across load levels. Future research should refine delamination modeling, incorporate temperature-dependent connector behavior, and recalibrate analytical methods using full-scale data to ensure reliable fire design of TCC floors.
