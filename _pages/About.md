@@ -117,6 +117,7 @@ liming.jiang(at)Polyu.edu.hk
 * RGC General Research Fund (GRF),992K HKD, 2027-2029, PI.
 * RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
 * RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
+* State Key Laboratory of Disaster Reduction in Civil Engineering (SLDRCE) Open Fund, 250K CNY, 2027-2029, PI. 
 * CVU International Research Seed Funding, 20K USD, 2026-2027 (Post-Doc Dr Zhao as PI).
 * Sichuan-Universities Collaborative Key R&D Project (四川省省院省校科技合作重点研发项目)，2026-2027, PI(Hong Kong).
 * Sub-project of Shenzhen Key Industrial R&D Scheme(深圳市重點產業研發計劃),0.5M CNY(Total Fund: 5M CNY),2026-2028, PI(PolyU).
