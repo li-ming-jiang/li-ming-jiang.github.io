@@ -92,7 +92,10 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Awards
 * [2026] Fire Phenix Distinguished Young Scientist Award 2026.
+* [2026] Outstanding Postgraduate Student Presentation Award, 13th Conference on Structural Fire Safety Technologies, Hefei, 2026.
+* [2026] Outstanding Paper Award, 2nd International Symposium on Frontiers of Fire Science and Technology (ISFFST), 2026.
 * [2026] Innovation Award of Excellence 2026, Council on Vertical Urbanism (CVU, formerly known as CTBUH).
+* [2026] International Research Seed Funding Award (only 1 globally), CVU.
 * [2026] HKIE Fire Division Scholarship to Mr Chan Chuen Chi for Excellent FYP performance (as project supervisor).
 * [2025] Best Paper on Innovation, 12th International Conference on Advances in Steel Structures (ICASS 2025).
 * [2025] OpenSees Best Paper Award (certification of distinction), The 1st EOS OpenSees Award, [EuroAsian OpenSees Association](https://www.eurasianopensees.com/)
